@@ -1,0 +1,4 @@
+n=11
+result="even" if n%2==0 else "odd"
+print(result)
+print(type(result))
